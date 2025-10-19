@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	text-align: center;
+	background-color: beige;  
+}
+a {
+	padding: 15px;
+margin: 3px;
+	font-size: 125%;
+	background-color:  azure; 
+	color:  darkslategrey; 
+}
