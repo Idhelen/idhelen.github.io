@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.640 --> 00:04.000\nLong gone are the days of when South San Francisco was pastureland.\n\n00:04.320 --> 00:08.200\nThe city has undergone several industry transitions. The shift in\n\n00:08.700 --> 00:11.920\nidentity from industrial city to the birthplace of biotechnology.\n\n00:12.560 --> 00:14.800\nA quick recap of what we learned in this section.\n\n00:15.040 --> 00:18.160\n1892-1950s the heavy industry\n\n00:18.240 --> 00:21.640\nera symbolized by meatpacking dominating the waterfront\n\n00:22.140 --> 00:23.760\nand leading to the industrial city moniker.\n\n00:24.400 --> 00:28.650\n1976 present the Biotechnology Era led\n\n00:29.150 --> 00:32.330\nby Genentech, which reinvented the city\'s image and economy on the\n\n00:32.830 --> 00:36.490\nglobal stage. South San Francisco is now considered the birthplace\n\n00:36.990 --> 00:40.690\nof biotechnology. Our city is rich in compelling industrial\n\n00:41.190 --> 00:44.610\nand cultural history, and it is our collective responsibility to actively\n\n00:45.110 --> 00:48.690\npreserve its unique heritage for the education and benefit of future generations.\n\n"
+		};
+	window["st_{278F3414-F624-47D3-9CB4-49B60CC32B1C}"]?.("sndAsset12", subtitles);
+})();
