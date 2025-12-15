@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {
+width: 900px;
+margin: 0 auto;
+text-align: center;
+}
+
+ #america_image {
+border: black 5px solid;
+}
+ 
+ #barrow {
+display: none; /* hides content */
+border: black 5px solid;
+}
+.choices {
+cursor: pointer;
+}
