@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.400 --> 00:04.240\nLets discuss the early recorded history circa 3000 BCE to\n\n00:04.740 --> 00:08.800\nSpanish Mexican era. The archaeological evidence suggests San\n\n00:09.300 --> 00:12.320\nBruno Mountains was first settled approximately 5,000 years ago.\n\n00:12.560 --> 00:16.000\nThe native people of the San Francisco Peninsula at European contact\n\n00:16.160 --> 00:19.280\nwere known as Castanoan, Spanish for coast people.\n\n00:19.680 --> 00:24.080\nNative Americans currently in the Bay Area prefer the term name Olone,\n\n00:24.580 --> 00:28.410\nwhich means Abalone people. On the left is an illustration painted by Louis\n\n00:28.910 --> 00:32.610\nCoris named Ohlone Indians in a Thule\n\n00:33.110 --> 00:36.810\nboat in the San Francisco Bay. The painting illustrates three Ohlone people\n\n00:37.310 --> 00:41.250\ncrossing the waters in San Francisco Bay. These types of vessels allowed the Ohlone\n\n00:41.750 --> 00:44.890\npeople to hunt, fish and travel in and around the San Francisco Bay and\n\n00:45.390 --> 00:48.810\nPeninsula. When you are ready, please click next to do a short knowledge\n\n"
+		};
+	window["st_{FF66518E-F6C2-4A67-8E21-C048D38DC7EE}"]?.("sndAsset5", subtitles);
+})();
